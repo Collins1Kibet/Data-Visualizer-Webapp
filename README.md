@@ -1,8 +1,8 @@
-### Data Visualizer 📊
+## Data Visualizer
 
 This is a Streamlit web application for visualizing data from CSV files. The application allows users to select a CSV file from a specified directory, view the data, and create various types of plots using Seaborn and Matplotlib.
 
-#### Features
+### Features
 
 - Load and display CSV files from a specified folder
 - Select columns for the X and Y axes
@@ -13,10 +13,10 @@ This is a Streamlit web application for visualizing data from CSV files. The app
   - Distribution Plot
   - Count Plot
 
-#### Link to my Webapp
+### Link to my Webapp
 https://data-visualizer-webapp.streamlit.app/
 
-#### Usage
+### Usage
 **Select a CSV file:**
 Use the dropdown menu to select a CSV file from the data folder.
 
@@ -32,7 +32,7 @@ Select a plot type from the available options.
 **Generate the plot:**
 Click the "Generate Chart" button to visualize the selected data.
 
-#### Acknowledgements
+### Acknowledgements
 - Streamlit
 - Pandas
 - Seaborn

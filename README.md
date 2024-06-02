@@ -17,19 +17,20 @@ This is a Streamlit web application for visualizing data from CSV files. The app
 https://data-visualizer-webapp.streamlit.app/
 
 ### Usage
-**Select a CSV file:**
+
+1. **Select a CSV file:**
 Use the dropdown menu to select a CSV file from the data folder.
 
-**View the data:**
+2. **View the data:**
 The first few rows of the selected CSV file will be displayed.
 
-**Select columns for plotting:**
+3. **Select columns for plotting:**
 Choose the columns for the X and Y axes from the dropdown menus.
 
-**Choose a plot type:**
+4. **Choose a plot type:**
 Select a plot type from the available options.
 
-**Generate the plot:**
+5. **Generate the plot:**
 Click the "Generate Chart" button to visualize the selected data.
 
 ### Acknowledgements

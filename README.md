@@ -2,6 +2,18 @@
 
 This is a Streamlit web application for visualizing data from CSV files. The application allows users to select a CSV file from a specified directory, view the data, and create various types of plots using Seaborn and Matplotlib.
 
+### Datasets Sources:
+
+AIDS_ClinicalTrial_GroupStudy175.csv: https://www.kaggle.com/datasets/tanshihjen/aids-clinical-trials
+
+breast_cancer_data.csv: This is from sklearn dataframe
+
+diabetes.csv: https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset/data
+
+parkinsons.csv: https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
+
+titanic.csv: https://www.kaggle.com/datasets/sakshisatre/titanic-dataset
+
 ### Features
 
 - Load and display CSV files from a specified folder

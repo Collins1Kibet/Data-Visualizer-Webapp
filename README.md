@@ -26,7 +26,7 @@ titanic.csv: https://www.kaggle.com/datasets/sakshisatre/titanic-dataset
   - Count Plot
 
 ### Link to my Webapp
-https://data-visualizer-webapp.streamlit.app/
+https://ck-data-visualizer-webapp.streamlit.app/
 
 ### Usage
 
